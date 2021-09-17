@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application Dice</string>
+    <string name="how_many_sides_do_you_want_on_the_dice">How many sides do you want on the dice?</string>
+</resources>
